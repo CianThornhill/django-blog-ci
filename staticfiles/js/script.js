@@ -1,0 +1,1 @@
+console.log("A printed static message, wow!");
